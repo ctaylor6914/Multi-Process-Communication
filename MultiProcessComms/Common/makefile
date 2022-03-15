@@ -1,5 +1,5 @@
 #	FILE			: makefile
-#	PROJECT			: SP_A03
+#	PROJECT			: Multi Process Communication
 #	PROGRAMMER		: Mita Das & Colby Taylor
 #	FIRST VERSION		: 2022-02-21
 #	DESCRIPTION		: this makefile will compile the common code
