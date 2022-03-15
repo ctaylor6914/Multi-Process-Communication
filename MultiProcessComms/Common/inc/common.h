@@ -1,8 +1,8 @@
 /*
 *	FILE			: common.h
-*	PROJECT			: SP_A03
-*	PROGRAMMER		: Mita Das & Colby Taylor
-*	FIRST VERSION	: 2022-02-21
+*	PROJECT			: Multi Process Communication
+*	PROGRAMMER		: Colby Taylor
+*	FIRST VERSION		: 2022-02-21
 *	DESCRIPTION		: This include file contains the common function prototypes for the application 
 */
 
