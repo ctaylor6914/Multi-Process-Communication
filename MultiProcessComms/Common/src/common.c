@@ -1,7 +1,7 @@
 /*
 *	FILE			: common.c
-*	PROJECT			: SP_A03
-*	PROGRAMMER		: Mita Das & Colby Taylor
+*	PROJECT			: Multi Process Communication
+*	PROGRAMMER		: Colby Taylor
 *	FIRST VERSION	: 2022-02-21
 *	DESCRIPTION		: This is the main entry point for common.c function
 */
